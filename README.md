@@ -55,11 +55,6 @@ This project is a responsive Gym Website developed using HTML, CSS, and JavaScri
 > Upload your output image to the repository with the name **GymWebsite_Output.png** and then replace the line below by removing the `>`.
 
 ![Gym Website](image.png)
-
-## Author
-
-**Lavanya**
-
 ## Author
 
 Lakshmilavanya
