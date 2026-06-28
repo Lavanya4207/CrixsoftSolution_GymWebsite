@@ -58,5 +58,4 @@ This project is a responsive Gym Website developed using HTML, CSS, and JavaScri
 ## Author
 Lakshmilavanya
 
-##  Internship
-Web Development Internship - Crixsoft Solution
+
